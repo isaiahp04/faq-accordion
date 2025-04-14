@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- My Solution URL: [My Solution URL](https://your-solution-url.com)
+- My Solution URL: [My Solution URL](https://www.frontendmentor.io/solutions/faq-accordion-using-javascript-NuxeCi3uzN)
 - My Live Site: [My Live Site](https://isaiahp04.github.io/faq-accordion)
 
 ## My process
